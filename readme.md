@@ -1,0 +1,2 @@
+# MongoDB .NET Core OData Example
+The .NET driver of MongoDB integrates very well into the rest of the .NET ecosystem. This project shows how easy it is to create an ASP.NET core API that accesses MongoDB via an OData interface.
